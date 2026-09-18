@@ -1,7 +1,7 @@
 # PoeticLanguage
 Home of the PoeticLanguage database.
 
-'Concept' folder:
+'Concepts' folder:
 
 - Glossary: describes the framework behind the PoeticLanguage database
 - Values: contains the variable descriptions used for documentation and coding
